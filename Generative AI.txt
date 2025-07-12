@@ -1,0 +1,26 @@
+GPT (Generative Pre-Training Transformer)
+
+1. AI
+2. ML
+3. DL
+4. GEN AI
+
+ARCHITECTURE
+GPT - LLM <--- Transformers <--- LSTM(Long-Short Term Memory) <--- RNN(Recurrent Neural Network) <--- ANN <--- DL(DEEP Learning)
+
+Steps of ML Life cycles
+Collect the data
+2. Preprocess the data
+3. Split the model in TRAIN and TEST
+4. Design the ML model
+5. Train the model
+6. Test the model
+7. Deploy the model
+8. Monitor
+
+-------------------------------------
+Supervised Learning
+-------------------------------------
+it is of two types
+1. Regression - means which varies 
+2. Classification - Means which classify the data as per needs
