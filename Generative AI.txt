@@ -24,3 +24,5 @@ Supervised Learning
 it is of two types
 1. Regression - means which varies 
 2. Classification - Means which classify the data as per needs
+
+linear regression y=wx+b

@@ -1,0 +1,13 @@
+RAG(Retrival Augmented Generation)
+Based on Vector Db
+- Ingestion 
+- Retrival
+
+Vector DB is used because semantic search is possible in this database 
+but in other database like sql, Mongodb they does not support semantic search.
+
+
+
+- Chunking
+it means to break the data into small peices so that when we try to retrive 
+the data it gives the only useful result 
