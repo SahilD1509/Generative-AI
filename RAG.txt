@@ -1,0 +1,17 @@
+RAG(Retrieval Augmented Generation)
+
+working of RAG
+pdf ---> ectract(data) ---> chuncking(vreaking the text into small parts) ---> embedding(vector Database) ---> Ingesting(transfer the data into Database)
+
+How agent works
+1. Orchestrator -- It can be defined as prompt for agent which tells the agent what to do... 
+2. Tools  
+3. LLM
+
+- LLM is componet of RAG
+
+-Runables
+prompts
+templates
+chat models
+tools
